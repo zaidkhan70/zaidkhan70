@@ -111,21 +111,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zaidkhan70&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-</div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zaidkhan70/zaidkhan70/output/snake.svg" width="95%"/>
-</div>
-
----
 
 ## 🤝 Connect With Me
 
