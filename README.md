@@ -1,6 +1,11 @@
 # 💫 About Me:
 I'm a second-year student of engineering. passionate about AI&ML and Automation, Web development. always eager to learn and apply new skills to solve real-world problems.<br><br>Currently exploring how technology and strategy come together to create meaningful solutions. I also enjoy taking on leadership roles, working in teams, and thinking creatively to solve challenges.<br><br>🔹 Learning: Automation and AI&ML, Marketing Strategy, innovations
 
+# 🐍 Contribution Snake 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaidkhan70/zaidkhan70/output/snake.svg" width="95%" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidkhan70) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codewithzaid70@gmail.com) 
