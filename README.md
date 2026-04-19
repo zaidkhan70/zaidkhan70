@@ -26,16 +26,12 @@
 
 ## 🧠 About Me
 
-```python
-zaid = {
-    "role"      : "Engineering Student (2nd Year)",
-    "passions"  : ["AI & ML", "Automation", "Web Development", "Data Science"],
-    "learning"  : ["LLMs", "Marketing Strategy", "Cloud & Automation"],
-    "strengths" : ["Leadership", "Team Collaboration", "Creative Problem Solving"],
-    "goal"      : "Build tech that creates meaningful real-world impact 🚀",
-    "contact"   : "codewithzaid70@gmail.com"
-}
-```
+- 🎓 **2nd Year Engineering Student** passionate about tech & innovation
+- 🤖 Deeply interested in **AI & ML, Automation, Web Development & Data Science**
+- 🌱 Currently learning **LLMs, Marketing Strategy & Cloud Automation**
+- 💡 Love taking on **leadership roles**, working in teams & solving challenges creatively
+- 🚀 Goal: Build tech that creates **meaningful real-world impact**
+- 📫 Reach me at **codewithzaid70@gmail.com**
 
 ---
 
