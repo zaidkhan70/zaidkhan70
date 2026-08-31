@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/2nd%20Year-Engineering%20Student-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/3rd%20Year-Engineering%20Student-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Collaborations-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white" />
   &nbsp;
